@@ -12,14 +12,14 @@ Passionate .NET developer with a strong foundation in building robust, scalable 
 - LINQ
 - SQL Server
 - RESTful API Design
-- Xamarin
-- Azure DevOps
 
 ### 🌱 I'm currently learning
 
 - Blazor
 - Microservices Architecture
 - Docker
+- Xamarin
+- Azure DevOps
 
 ### 📊 GitHub Stats
 
