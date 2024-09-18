@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jessetechgeek&show_icons=true&theme=default&hide_border=true" />
 
-## 👨‍💻 .NET Developer | Exploring Open Source
+### 👨‍💻 .NET Developer | Exploring Open Source
 
 Passionate .NET developer with a strong foundation in building robust, scalable applications. Eager to contribute to open-source projects and continuously expanding my skill set in the ever-evolving world of software development.
 
