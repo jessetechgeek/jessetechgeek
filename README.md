@@ -13,6 +13,7 @@ Passionate .NET developer with a strong foundation in building robust, scalable 
 - RESTful API Design
 
 <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=jessetechgeek" alt="GitHub Streak" />
+<img align="right" src="https://streak-stats.demolab.com?user=jessetechgeek" alt="GitHub Streak" />
 
 ### 🌱 Currently Learning
 - Blazor
