@@ -1,6 +1,6 @@
 # Jesse Nicodemus
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jessetechgeek&show_icons=true&theme=default&hide_border=true" />
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=jessetechgeek&show_icons=true&theme=default&hide_border=true" />
 
 ### 👨‍💻 .NET Developer | Exploring Open Source
 
