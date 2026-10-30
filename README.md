@@ -59,8 +59,8 @@ An AI news aggregator. Flutter/GetX client with a Node.js/Express backend, a pip
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=jessetechgeek&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=jessetechgeek&hide_border=true" alt="GitHub streak" />
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jessetechgeek&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+<img width="48%" src="https://streak-stats.demolab.com?user=jessetechgeek&hide_border=true" alt="GitHub streak" />
 
 </div>
 
